@@ -1,12 +1,13 @@
-# Welcome to Our E-commerce Website!
+Opis Projekta:
+Online Shop je web aplikacija razvijena korišćenjem tehnologija React.js, Axios za komunikaciju sa API-jem i Tailwind CSS za dizajn i stilizaciju. Ovaj online shop omogućava korisnicima da pregledaju različite proizvode i njihove detalje.
 
-Our website is an online store selling a variety of IT products, built with React and Tailwind CSS to provide a seamless and user-friendly experience.
+Tehnologije Korištene:
 
-## Products
+React.js: Frontend je razvijen korišćenjem React.js.
+Axios: Za komunikaciju sa fake API store-om i dobijanje podataka o proizvodima.
+Tailwind CSS: Korišćen je za brzo stilizovanje komponenti i kreiranje privlačnog korisničkog interfejsa.
+Naš projekat se sastoji isključivo od frontenda, zbog čega smo koristili Fake Store API.
 
-We offer a wide range of high-quality IT products that have been carefully selected to meet the diverse needs of our customers. Our product selection includes:
-- [list examples of products you sell here]
+Tim: Projekat je razvijen u saradnji sa @ksenijaacimovic.
 
-## Consultation Service
-
-We understand that choosing the right product can be difficult, so we offer a consultation service to help guide you in making the best decision. You can book a consultation and discuss your needs with our experienced professionals who will provide personalized recommendations based on your budget and preferences.
+Trenutni Status: Online Shop je dostupan na web hostingu i može se pronaći na sledećem linku: https://shop.testiraj.site/. Trenutno su svi podaci na sajtu lažni i preuzeti sa interneta.
